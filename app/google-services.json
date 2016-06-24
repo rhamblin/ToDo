@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "790111786586",
+    "firebase_url": "https://tester-56686.firebaseio.com",
+    "project_id": "tester-56686",
+    "storage_bucket": "tester-56686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790111786586:android:c8576b1b5e7ae2d1",
+        "android_client_info": {
+          "package_name": "com.example.riko.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790111786586-dstd6bjmsechfjs7ra6d217dq29ihmem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDed0We7P5APvWUxF0mR59mfStx3ubjPa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790111786586:android:d68aade82707547b",
+        "android_client_info": {
+          "package_name": "encloode.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790111786586-dstd6bjmsechfjs7ra6d217dq29ihmem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDed0We7P5APvWUxF0mR59mfStx3ubjPa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
